@@ -17,6 +17,7 @@ function App() {
         <div style={{ textAlign: "center" }}>
           <h1>User Details</h1>
           <h1>Git</h1>
+          <h1>Git2</h1>
           <UserDetails />
           <ShowUserDetails></ShowUserDetails>
           <ProductDetails></ProductDetails>
