@@ -19,7 +19,7 @@ function App() {
           <h1>Git</h1><button>click me7</button>
           <h1>Git</h1><button>click me7</button>
           <h1>Git</h1>
-          <h1>User Details</h1>
+          {/* <h1>User Details</h1> */}
          
           <h1>Git4</h1>
           
