@@ -16,9 +16,12 @@ function App() {
       <Provider store={store}>
         <div style={{ textAlign: "center" }}>
           <h1>User Details</h1>
-          <h1>Git</h1>
+         
           <h1>Git4</h1>
           <button>click me2</button>
+          <h1>Git</h1>
+          <button>click me4</button>
+
           <UserDetails />
           <ShowUserDetails></ShowUserDetails>
           <ProductDetails></ProductDetails>
